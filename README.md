@@ -11,7 +11,8 @@ FORAM ADICIONADOS OS SEGUINTES DETALHES PARA AS CIDADES CONSULTADAS / THE FOLLOW
 
 
 # SETUP:
-1 - `npm install`
-2 - localhost:4200 on your web browser
+1. `npm install`
+2. `npm start`
+3.  localhost:4200 on your web browser
 
 
